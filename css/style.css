@@ -1,0 +1,56 @@
+body{
+  background-color: ivory;
+}
+
+h1{
+  text-align: center;
+  color: aqua;
+  text-shadow: 4px 4px grey;
+  font-family: 'Lobster', cursive;
+}
+
+.intense{
+  font-style: italic;
+  color: crimson;
+  font-weight: bold;
+}
+
+.first {
+  border-style: inset;
+  border-color: aqua;
+  border-width: 12px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+.header{
+  color: darkorange;
+  text-decoration: underline;
+  font-family: cursive;;
+}
+
+.second {
+  border-style: dotted;
+  border-color: pink;
+  border-width: 12px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.happy {
+  font-style: italic;
+  color: #58389C;
+  font-weight: lighter;
+}
+
+.link {
+  color: red;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  text-decoration: none;
+}
